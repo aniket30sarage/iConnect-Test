@@ -1,9 +1,9 @@
 {
-	"name": "backend",
+	"name": "iConnect-Test",
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
-		"start": "nodemon backend/server.js --exec babel-node backend/server.js",
+		"start": "nodemon backend/server.js --exec babel-node server.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"babel": {
